@@ -5,4 +5,5 @@ void setup(){
 
 void draw(){
   ellipse(mouseX, mouseY, 10, 10);
+  println("loop");
 }
